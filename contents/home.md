@@ -1,17 +1,16 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![YAizhou](https://img.shields.io/badge/YAizhou-github-blue?logo=github)](https://github.com/YAizhou)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+He is currently a undergrad in the Department of Computer Sciences at University of Toronto.
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: yizhou.ai[at]mail.utoronto.ca
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+B.E., Specialist in Computer Science, University of Toronto, 2023 – Present (Expected Graduation in 2027)
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Complexity Theory, Algorithmic Game Theory (AGT), Programming Language (PL), Reinforcement Learning, AI Safety
 
