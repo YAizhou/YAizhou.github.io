@@ -1,6 +1,6 @@
 #### Submitted
 
-- <strong>Yizhou, Ai</strong>, & Biaoshuai, T. Computational Complexity of Strong and Average Justified Representation
+- <strong>Yizhou, Ai</strong>, & Biaoshuai, T. Computational Complexity about Achieving Justified Representation
 
 #### Published
 
